@@ -51,11 +51,14 @@
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
+### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=c,python,rust&theme=light)](https://skillicons.dev)
  
   
 <!-- Skills: Tools & Frameworks -->
+### Tools and Frameworks
 [![My Skills](https://skillicons.dev/icons?i=vscode,git&theme=light)](https://skillicons.dev)
   
 <!-- Skills: Libraries -->
-
+### Libraries
+[![My Skills](https://skillicons.dev/icons?i=django&theme=light)](https://skillicons.dev)
