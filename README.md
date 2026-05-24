@@ -6,12 +6,11 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Jefferson! A Network & Development student from Brazil.
+  Hi 👋, I'm Jefferson! A Back-end student from Brazil.
 
-  - 🌱 I’m currently studying Back-end Python and Development Network Software
+  - 🌱 I’m currently studying Back-end Python. 
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with Development Network Softwares
- and Development Embbed Wireless Systems and create my own Blog Tech for share with my pairs of job area.
+  - 🔭 I am looking for my first job opportunity. My dream is to one day work with Network Software Engineer for create tools, systems and applications for Network Communications and Development Embbed Wireless Systems and create my own Blog Tech for share with my pairs of job area.
 </p>
 
 <!-- Dropdown -->
