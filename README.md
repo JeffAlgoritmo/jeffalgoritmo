@@ -19,7 +19,7 @@
 
   - 💬 I am 25 years old, currently living in Brazil. I dont have yet dominate in English, but i have intermediate level with reading and i have some experience with Python. I'm also a newbie in blog creator content in [Hashnode.dev](https://macjeff.hashnode.dev/) since 2026, which helped me develop important skills such as creativity, communication, analytical capability.
 
-  - ⚡ I enjoy reading, whether it's a good book, manga as well as watching movies and playing games! I believe that our kind and helping attitudes contribute to a more people are gratufulness and kindness too. Help the next! =)
+  - ⚡ I enjoy reading, whether it's a good book, manga as well as watching movies and playing games! I believe that our kind and helping attitudes contribute to a more people are gratufulness and kindness too. Help others! =)
 </details>
 
 <!-- Links -->
