@@ -10,7 +10,7 @@
 
   - 🌱 I’m currently studying Back-end Python. 
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with Network Software Engineer for create tools, systems and applications for Network Communications and Development Embbed Wireless Systems and create my own Blog Tech for share with my pairs of job area.
+  - 🔭 I am looking for my first job opportunity. My dream is to one day work with Network Software Engineer for create tools, systems and applications for Network Communications and Development Embbeded Wireless Systems and create my own Blog Tech for share with my pairs of job area.
 </p>
 
 <!-- Dropdown -->
